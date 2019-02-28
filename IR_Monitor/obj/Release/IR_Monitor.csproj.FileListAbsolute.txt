@@ -1,0 +1,13 @@
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\bin\Release\IR_Monitor.exe.config
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\bin\Release\IR_Monitor.exe
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\bin\Release\IR_Monitor.pdb
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.csprojAssemblyReference.cache
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.form1.resources
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.Form2.resources
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.Properties.Resources.resources
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.csproj.GenerateResource.cache
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.exe
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.pdb
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.Form3.resources
+C:\Users\Honeywell\Desktop\ksy\study\IR_Monitor\IR_Monitor\obj\Release\IR_Monitor.Form4.resources
